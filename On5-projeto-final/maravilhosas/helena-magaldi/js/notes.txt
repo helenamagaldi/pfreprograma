@@ -1,0 +1,55 @@
+#e27d60
+#O85DCB
+#E8A87C
+#C38D93
+#41B3A3
+#badbe2
+#a8ced7
+#e4d0d3
+#e1d8d9
+#504f4f
+
+
+Rosalind Franklin foi uma cientista britânica, que recebeu seu PhD pela Universidade de Cambridge em 1945 e atuou diretamente na descoberta da estrutura do DNA humano como o conhecemos hoje, com formato helicoidal. Seu trabalho com difração de raios-X ficou conhecido na comunidade científica da época, porém, o reconhecimento de seu papel imperativo na descrição do DNA foi impedido pelo seu colega de laboratório Cambridge, o biólogo molecular Maurice Wilkins, em 1950. Seus dados foram usados, sem a sua permissão, pelo renomado estudo que descreve o modelo da molécula, publicado em 1953 por Francis Crick, James Wation e Wilkins. Os três homens viriam a ganhar o Prêmio Nobel de Medicina em 1963 pelo seu trabalho científico ignorando as contribuições de Franklin.
+
+
+Foto 51, a foto realizada com difração de raios-X que permitiu a Franklin descrever a estritura helicoidal do DNA e que posteriormente seria usada por Watson, Crick e Wilkins em seu estudo. Ao lado podemos ver a assinatura de Franklin, além de comentários sobre a foto. No meio científico, ela é considerada por muitos a foto mais importante da história. A foto foi realizada por meio de uma amostra de DNA hidratado posicionado sobre uma fonte de raios-X e demorou mais de 60 horas para ser finalizada. Os raios difratados pela molécula de DNA produzem uma imagem que permitem a determinação da sua estrutura em 3D por meio da forma de "cruz listrada" obtida.
+
+Saber mais sobre Franklin
+- Rosalind E. Franklin nasceu em Londres, no dia 25/7/1920 em uma proeminente família judaica na cidade que valorizava a educação e o serviço público.
+- Sua família participou ativamente na proteção de judeus perseguidos pela Alemanha nazista de Hitler.
+- Ela é descrita como uma mulher apaixonada pela vida, que viajava habitualmente, além de cultivar o gosto por trilhas ao ar livre e por vivazes discussões sobre não apenas ciência, mas também política.
+- Franklin nunca veio a casar-se, dedicando grande parte de seu tempo ao trabalho e aos seus amigos próximos.
+- Ela veio a falecer vítima de câncer de ovário em 1958, com apenas 37 anos de idade.
+- A cientista foi descrita de maneira pejorativa por Wilkins, Crick e James Watson.
+- Seu trabalho revolucionou a medicina, biologia e agricultura.
+- James Watson veio a perder todos os seus títulos honorários por usar seu conhecimento e científico para embasar teorias genéticas racistas
+
+TED:Ed
+Esse vídeo explica, por meio de animações, sua trajetória e sua contribuição chave de Rosalind na descrição da molécula de DNA (e outros assuntos). Da mesma maneira, ele aborda o assédio de gênero sofrido pela cientista em seu ambiente de trabalho e de como a sua realidade afetou a sua carreira como cientista.
+
+DNA?
+Uma sigla relativamente conhecida no mundo, a molécula de DNA pode parecer um mistério para muitos. Esse vídeo explica a sua importância e demonstra com simplicidade a sua função em organismos vivos.
+
+Projeto Genoma Humano
+Esse incrível trabalho científico envolveu um time internacional de pesquisadores com o objetivo de sequenciar e mapear todos os genes de nossa espécie. Começado em 1990 e apenas completo em 2003, o resultado gerado permitiu, pela primeira vez, a leitura completa do mapa genético utilizado pela natureza para a geração de um ser humano.
+
+Card1: Ata de laboratório de Franklin contendo suas anotações sobre a dupla hélice observada em sua fotografia
+Card2: Watson, Crick e Franklin
+Card3: A história de Franklyn não se trata de um caso isolado. Diversas mulheres foram apagadas pela história ao longo do desenvolvimento científico.
+
+CARROSEL - Captions
+foto 1 - Franklin em seu laboratório em Cambridge
+foto 2 - Rosalind franklin
+foto 3 - Rosalind Franklin
+foto 4 - Crick, Watson, Wilkins
+
+lista de referencias:
+<li><a href="https://www.nature.com/scitable/topicpage/rosalind-franklin-a-crucial-contribution-6538012/">Nature</a><li>
+<li><a href="https://www.sciencemag.org/careers/2018/08/rosalind-franklin-and-damage-gender-harassment">Science</a><li>
+<li><a href="https://www.britannica.com/biography/Rosalind-Franklin#:~:text=Rosalind%20Franklin%2C%20in%20full%20Rosalind,serves%20to%20encode%20genetic%20information">ENCYCLOPÆDIA BRITANNICA</a><li>
+<li><a href="https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical">U.S. National Library of Medicine</a><li>
+<li><a href="http://www.scientistafoundation.com/discovher-science/the-unsung-mother-of-double-helix">Scientista Foundation</a><li>
+<li><a href="https://www.genome.gov/human-genome-project">Human Genome Project</a><li>
+<li><a href="https://www.bbc.com/news/health-18041884">BBC</a><li>
+- BBC https://www.bbc.com/news/health-18041884
